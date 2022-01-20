@@ -1,0 +1,117 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> </title>
+</head>
+
+<body>
+<table width=100%>
+
+<tr>
+<td width=10%></td>
+<td width=50%> <img width=100 src="C:\Users\Toshiba user\Desktop\New folder (5)\logo_gold.png" alt="Neka"></td>
+<td width=30% align=right> <a href="podcast.html">podcast<span>|</span></a> <a href="Address.html">Address<span>|</span></a> <a href="Ideas.html">Ideas<span>|</span></a> <a href="AboutUs.html">About Us<span>|</span></a> <a href="ContuctUs.html">Contuct Us</a></td> 
+<td width=10%></td>
+</tr>
+</table>
+
+<hr>
+
+<table>
+<tr>
+<td></td>
+<td></td>
+<td align=right><a href="go.html">Go To Bottom</a></td>
+<td></td>
+</tr>
+
+<tr>
+<td width=10%></td>
+<td width=50%>
+<h1>Eric Hoffer and the Power of Self-Education</h1>
+
+
+<map name="image-map">
+    <area target="" alt="head" title="head" href="head.jpg" coords="484,109,22" shape="circle">
+<area target="" alt="bag" title="bag" href="head.jpg" coords="536,127,512,157,519,237,559,229,559,156" shape="poly">
+ <area target="" alt="sun" title="sun" href="head.jpg" coords="181,94,40" shape="circle">
+
+
+</map>
+
+
+<img width="100%" src="C:\Users\Toshiba user\Desktop\New folder (5)\life.jpg" alt="A man on a cliff" usemap="#image-map">
+
+<p> I recently read The True Believer by Eric Hoffer. It’s a book about how mass movements evolve. With a lot of historical examples, the book explains the patterns and common threads among them. It’s an insightful book and reading it was a great learning experience for me.<br/>
+<img src="#" alt="The True Believer book cover"> 
+What I’d like to share with you here is not the content of the book, though. Instead, I’d like to share with you about the author. You see, I didn’t know about Eric Hoffer before. But I imagined he must be a famous professor from a well-known university. I mean, what else could explain the depth of his insights? The True Believer is an influential book. Here is how 
+<a href="wikipedia.html">Wikipedia </a> podcast put it... <a href ="readmore.tml">read more</a>
+</p>
+
+</td>
+<td width=30%>
+<h2>Recent Posts</h2>
+<ul>
+<li><h3>Articles</h3></li>
+<ul>
+<li>The Importance of Goals, Especially During Difficult Times</li>
+<li>5 Steps to Discovering Your Life Purpose In 2022!</li>
+</ul>
+<li><h3>Ideas</h3></li>
+<ul>
+<li>10 Books to Read in The Fall</li>
+<li>Top Web Development Projects Ideas</li>
+</ul>
+</ul>
+<h2>Most Viewed Articles</h2>
+<ol>
+<li> Instant Gratification Is Stopping You From Reaching Your Goals!</li>
+<li>  Stop Juggling Between Work And Life</li>
+</ol>
+<h2> Stop Juggling Between Work And Life</h2>
+<pre>
+----------------------------------
+Rank Award
+----------------------------------
+First Free hosting and support
+Second 5GB Mobile Data
+Third 1GB Mobile Data
+---------------------------------- 
+</pre>
+<td width=10%></td>
+</tr>
+
+<tr>
+<td width=10%></td>
+<td width=50%>
+<hr/>
+<h3>New Podcast</h3>
+<h1>Jack Ma - How I Overcame Failure</h1>
+<audio src="C:\Users\Toshiba user\Desktop\New folder (5)\Jack Ma - How I Overcame Failure.mp3" controls>
+<hr/>
+<h3>Pick of the week</h3>
+<h1>24 Hours A Day</h1> 
+<video src="C:\Users\Toshiba user\Desktop\New folder (5)\24_HOURS.mp4" width="50%" controls></video>
+</td>
+<td width="30%"> </td>
+<td width="10%"></td>
+</tr>
+
+
+<tr>
+<td width=10%></td>
+<td width=50%>
+<hr>
+Follow Us On:<a href="facebook.html">Facebook<span>|</span></a> <a href="Twitter.html">Twitter</a>
+</td>
+<td width=30% align=right>
+<hr> 
+<a href="privacy.html">Privacy<span>|</span></a> <a href="terms.html">Terms Of Use</a>
+</td>
+<td width=10%></td>
+</tr>
+</table>
+<p align=center>Copyright © AASTU SEng 2021, All Rights Reserved</p>
+</body>
+</html>
