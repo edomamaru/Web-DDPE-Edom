@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <title>
+        Room Reservation and Pizza Delivery
+    </title>
+    <body >
+        <table style="width:100%">
+            <tr>
+                <td width = "10%"> </td>
+                <td width = "80%">
+                    <p align="right"><a href="#Pizza" >Pizza Delivery Form</a></p>
+        <h1>Reservation Request</h1>
+        <form>
+            <fieldset>
+                <legend><b><font color="blue">General Information</font></b></legend>
+                <label>Birthdate: </label>
+                    <input type="date" ><br>
+                    <label>Nights: </label>
+                    <input type="number"><br>
+                    <label>Adults: </label>
+                    <select name="Adults" id="">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                    </select><br>
+                    <label>Children: </label>
+                    <select name="Children" id="">
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">5</option>
+                        <option value="5">5</option>
+                    </select>
+            </fieldset>
+            <fieldset>
+                <legend><b><font color="blue">Prefrences</font></b></legend>
+                    <label>Room type: </label>
+                    <input type="radio" name="Room"><label>Standard</label>
+                        <input type="radio" name="Room"><label>Business</label>
+                        <input type="radio" name="Room"><label>Suite</label><br>
+                        <label>Bed type: </label>
+                        <input type="radio" name="Bed"><label>King</label>
+                        <input type="radio" name="Bed"><label>Double Double</label><br>
+                        <input type="checkbox"><label>Smoking</label>
+            </fieldset>
+            <fieldset>
+                <legend><b><font color="blue">Contact Information</font></b></legend>
+                <label>Name: </label>
+                    <input type="text" required ><br>
+                <label >Email: </label>
+                   <input type="email" ><br>
+                <label>Phone: </label>
+                   <input type="tel"><br>
+            </fieldset>
+            <br>
+            <input type="submit" value="Submit Reservation"> 
+            
+            <input type="reset" value="Clear">
+        </form>
+        <h1 id="Pizza" align="center">Pizza Delivery</h1>
+        <h2 align="center">Online Order Form</h2>
+        <table align="center"> 
+        <form >
+            <tr valign="top" align="right">
+            <td >
+            <label>Full Name: </label>
+                    <input type="text" required ><br>
+            <label>Address: </label>
+                    <input type="text" required ><br>
+            <label>Town/City: </label>
+                    <input type="text" required ><br>
+            <label>Postcode</label>
+                    <input type="number" required><br>
+                    <br>
+                </td>
+              <td >
+            <label>Tel: </label>
+                    <input type="tel" required><br>
+            <label>Email: </label>
+                    <input type="email" required><br>
+
+                </td>
+            </tr>
+            <tr valign="top">
+                <td >
+                    <fieldset>
+                        <legend>Topping</legend>
+                        <input type="radio" name="topping"><label>Margharita</label><br>
+                        <input type="radio" name="topping"><label>Four Seasons</label><br>
+                        <input type="radio" name="topping"><label>Meat Feast</label><br>
+                    </fieldset>
+                </td>
+                <td >
+                    <fieldset>
+                        <legend>Size</legend>
+                        <input type="radio" name="Size"><label>Small</label><br>
+                        <input type="radio" name="Size"><label>Medium</label><br>
+                        <input type="radio" name="Size"><label>Large</label><br>
+                    </fieldset>
+                </td>
+                <td >
+                    <fieldset>
+                        <legend>Extras</legend>
+                        <input type="checkbox"><label>Mushrooms</label><br>
+                        <input type="checkbox"><label>Green Peppers</label><br>
+                        <input type="checkbox"><label>Anchovies</label><br>
+                        <input type="checkbox"><label>Extra Cheese</label><br>
+                    </fieldset>
+                    <br>
+                </td>
+            </tr>
+            
+            <tr align="center">
+                <td colspan="3">
+                <label>Preferred delivery time: </label>
+                <input type="time"><br>
+                <label>Delivery Instructions or Address:</label>
+                <textarea ></textarea><br><br>
+                <input type="submit" value="Submit order">
+            </td>
+            </tr>
+        </form>
+    </table>
+                </td>
+                <td width = "10%"> </td>
+            </tr>
+        </table>
+        
+    </body>
+</html>
